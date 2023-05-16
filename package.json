@@ -1,0 +1,14 @@
+{
+  "name": "evershop",
+  "version": "1.0.0",
+  "description": "\"# Techno-B6-Evershop-Cypress\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agad",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
