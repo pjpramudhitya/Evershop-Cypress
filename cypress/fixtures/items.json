@@ -1,0 +1,14 @@
+[
+    {
+        "name_item" : "Nmd_r1 shoes",
+        "quantity" : 3,
+        "size" : "X",
+        "color" : "Black"
+    },
+    {
+        "name_item" : "Swift run x shoes",
+        "quantity" : 2,
+        "size" : "XL",
+        "color" : "Black"
+    }
+]
