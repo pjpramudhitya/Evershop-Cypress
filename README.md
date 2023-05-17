@@ -1,1 +1,1 @@
-"# Techno-B6-Evershop-Cypress" 
+Automation Testing for Evershop demo site by Ponang Jagad from Technocenter Intern Batch 6
