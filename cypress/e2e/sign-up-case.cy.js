@@ -1,6 +1,6 @@
 describe('Sign Up Process', () => {
   let name = "Agad"
-  let email = "agad.coba3@gmail.com"
+  let email = "agad.coba7@gmail.com"
   let password = "agadagad123"
   let main_url = 'https://demo.evershop.io/'
 

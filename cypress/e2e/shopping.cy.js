@@ -67,6 +67,7 @@ describe('Shopping Features', () => {
 
             cy.xpath("//input[@placeholder='Email']").type(email)
             cy.xpath("//button[@type='button']").click()
+            cy.wait(2000)
             cy.xpath("//input[@placeholder='Full name']").type(name)
             cy.xpath("//input[@placeholder='Telephone']").type(phone)
             cy.xpath("//input[@placeholder='Address']").type(address)
